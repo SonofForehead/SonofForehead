@@ -1,16 +1,59 @@
-.container{
-    border: 10px solid gray;
-    max-width: 700px;
-    margin: 0 auto;
-    
-    height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 body{
-    background-color: rgb(1, 0, 20);
+    background-color: rgb(1, 0, 10);
     font-size: 100%;
     font-family: "Comfortaa", Arial;
+}
+
+.mymods{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+
+.mymodslink img{
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
+    
+}
+
+#mymodspng:hover{
+    opacity: 30%;
+}
+
+.aboutme{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+
+.aboutmelink img{
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
+    
+}
+
+#aboutmepng:hover{
+    opacity: 30%;
+}
+
+.myart{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+
+.myartlink img{
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
+    
+}
+
+#myartpng:hover{
+    opacity: 30%;
 }
