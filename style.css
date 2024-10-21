@@ -34,3 +34,15 @@ body{
 #home:hover{
     opacity: 30%;
 }
+
+.games{
+    margin: auto;
+    width: 50%;
+}
+
+.linkscontainer{
+    width: 500px;
+    margin: auto;
+    position: relative;
+    right: 100px;
+}

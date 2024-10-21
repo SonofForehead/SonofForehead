@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 0, 19);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board{
+    background: lightgray;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.homeicon img{
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
+}
+
+#home:hover{
+    opacity: 30%;
+}
