@@ -1,3 +1,17 @@
+/* Home icon */
+.homeicon img{
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
+}
+
+#home:hover{
+    opacity: 30%;
+}
+
+
+/* Mods */
 body{
     background-color: rgb(0, 0, 19);
     color: white;
@@ -38,13 +52,31 @@ body{
     width: 500px;
 }
 
-.homeicon img{
-    border-radius: 0%;
-    border: 0px solid white;
-    opacity: 100%;
-    transition: 0.3s;
+
+/* Art */
+.blenderart img{
+    width: 500px;
 }
 
-#home:hover{
-    opacity: 30%;
+.blenderart{
+    text-align:center
+}
+
+#artheader{
+    font-size: 300%;
+    text-align:center;
+}
+
+.strawhat{
+    margin: auto;
+    border: 3px solid rgb(20, 20, 20);
+    background-color: rgb(9, 0, 52);
+    width: 800px;
+}
+
+.donut{
+    margin: auto;
+    border: 3px solid rgb(20, 20, 20);
+    background-color: rgb(9, 0, 52);
+    width: 800px;
 }
