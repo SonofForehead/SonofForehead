@@ -79,6 +79,20 @@ body{
     width: 800px;
 }
 
+.logpose{
+    margin: auto;
+    border: 3px solid rgb(20, 20, 20);
+    background-color: rgb(9, 0, 52);
+    width: 700px;
+}
+
+.ghost{
+    margin: auto;
+    border: 3px solid rgb(20, 20, 20);
+    background-color: rgb(9, 0, 52);
+    width: 650px;
+}
+
 .donut{
     margin: auto;
     border: 3px solid rgb(20, 20, 20);
