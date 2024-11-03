@@ -93,6 +93,15 @@ body{
     width: 650px;
 }
 
+.hassaikai{
+    margin: auto;
+    border: 3px solid rgb(0, 255, 32);
+    background-color: rgb(9, 0, 52);
+    width: 800px;
+} #Hassaikai02img{
+    width: 160px;
+}
+
 .donut{
     margin: auto;
     border: 3px solid rgb(0, 255, 32);
