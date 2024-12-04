@@ -30,9 +30,17 @@ body{
     opacity: 100%;
     transition: 0.3s;
 }
-
 #home:hover{
     opacity: 30%;
+}
+
+.modeicon{
+    margin: auto;
+    width: 50%;
+    border-radius: 0%;
+    border: 0px solid white;
+    opacity: 100%;
+    transition: 0.3s;
 }
 
 .games{
